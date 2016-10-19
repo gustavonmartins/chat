@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1461185607 source:d:\dev\projects\cpp\sfml chat\client.cpp
+	"Client.hpp"
+
+1460228712 source:d:\dev\projects\cpp\sfml chat\main.cpp
+	<iostream>
+	"Server.hpp"
+	"Client.hpp"
+
+1459888375 d:\dev\projects\cpp\sfml chat\server.cpp
+	"Server.hpp"
+
+1459887370 d:\dev\projects\cpp\sfml chat\client.cpp
+	"Client.hpp"
+
+1461339893 source:d:\dev\projects\cpp\sfml chat\server.cpp
+	"Server.hpp"
+	<algorithm>
+
+1455927722 d:\dev\projects\cpp\sfml chat\communicator.cpp
+	<iostream>
+	<SFML/Network.hpp>
+
+1461227318 source:d:\dev\projects\cpp\sfml chat\communicator.cpp
+	"Communicator.hpp"
+
+1461227318 d:\dev\projects\cpp\sfml chat\communicator.hpp
+	<iostream>
+	<list>
+	<map>
+	<SFML/Network.hpp>
+	"NetworkProtocol.hpp"
+
+1459886945 d:\dev\projects\cpp\sfml chat\server.h
+	<iostream>
+	<SFML/Network.hpp>
+	"Communicator.hpp"
+
+1459887170 d:\dev\projects\cpp\sfml chat\client.h
+	<iostream>
+	<SFML/Network.hpp>
+	"Communicator.hpp"
+
+1457175431 source:d:\dev\projects\cpp\sfml chat\clientz.cpp
+	<iostream>
+	<SFML/Network.hpp>
+	"Communicator.hpp"
+
+1461338108 d:\dev\projects\cpp\sfml chat\server.hpp
+	<iostream>
+	<list>
+	<SFML/Network.hpp>
+	"PostMan.hpp"
+	"NetworkProtocol.hpp"
+	"Generic.hpp"
+	"GameController.hpp"
+
+1461228850 d:\dev\projects\cpp\sfml chat\client.hpp
+	<iostream>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	"PostMan.hpp"
+	"NetworkProtocol.hpp"
+
+1461179861 d:\dev\projects\cpp\sfml chat\networkprotocol.h
+
+1460669925 d:\dev\projects\cpp\sfml chat\chatcommons.hpp
+	<iostream>
+	<list>
+	<SFML/Network.hpp>
+	"NetworkProtocol.h"
+
+1460669130 source:d:\dev\projects\cpp\sfml chat\chatcommons.cpp
+	"ChatCommons.hpp"
+
+1461180264 d:\dev\projects\cpp\sfml chat\networkprotocol.hpp
+
+1461188888 source:d:\dev\projects\cpp\sfml chat\generic.cpp
+	"Generic.hpp"
+
+1461188827 d:\dev\projects\cpp\sfml chat\generic.hpp
+	<iostream>
+	<SFML/System.hpp>
+	<SFML/Main.hpp>
+
+1461327494 d:\dev\projects\cpp\sfml chat\postman.hpp
+	<iostream>
+	<list>
+	<map>
+	<SFML/Network.hpp>
+	"NetworkProtocol.hpp"
+
+1461340607 source:d:\dev\projects\cpp\sfml chat\postman.cpp
+	"PostMan.hpp"
+
+1461338708 source:d:\dev\projects\cpp\puppieswar\networkprotocol.cpp
+	"NetworkProtocol.hpp"
+
+1460587491 d:\dev\projects\cpp\puppieswar\networkprotocol.hpp
+	<iostream>
+	<SFML/Network.hpp>
+	"GameController.hpp"
+
+1460584183 d:\dev\projects\cpp\puppieswar\gamecontroller.hpp
+	<SFML/System.hpp>
+
+1459593832 source:d:\dev\projects\cpp\puppieswar\gamecontroller.cpp
+	<SFML/System.hpp>
+	"GameController.hpp"
+
